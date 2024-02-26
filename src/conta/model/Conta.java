@@ -1,4 +1,4 @@
-package conta;
+package conta.model;
 
 public class Conta {
 	
@@ -87,10 +87,6 @@ public void visualizar() {
 		System.out.println("Titular da conta: " + this.titular);
 		System.out.println("Saldo da conta: " + this.saldo);
 	}
-	
-	
-	
-	
 	
 
 }
